@@ -1,0 +1,5 @@
+rootProject.name = 'JavaCore_Lesson4.1'
+include 'db'
+include 'api'
+include 'service'
+
